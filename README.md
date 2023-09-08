@@ -1,2 +1,3 @@
 # Snake-game
-Recreation of the OG Nokia 3310 Snake Game using python and turtle module
+***Recreation of the OG Nokia 3310 Snake Game using python and turtle module***
+The game is a classic Snake game implemented in Python using the Turtle graphics library. In this game, players control a snake with arrow keys, guiding it to eat red "apple" squares that appear on the screen. As the snake consumes the food, it grows longer, increasing the player's score. However, the game ends if the snake collides with the screen borders or itself. The game's visuals include a black background, a white python, and red apples, with a scoreboard displaying the current score. The use of Python and the Turtle library enables the creation of a simple yet entertaining gaming experience, combining player skill and reflexes to achieve the highest score possible while avoiding collisions.
