@@ -1,2 +1,2 @@
 # Snake-game
-***Recreation of the Nokia 3310 Snake Game using python turtle module***
+***Recreation of the Nokia Snake Game using python turtle module***
